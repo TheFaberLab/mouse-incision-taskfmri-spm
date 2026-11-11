@@ -1,0 +1,4 @@
+# results of the test run
+test_output/
+*.asv
+run_all_log.txt

@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "SPM12 preprocessing and 1st level analysis of mouse task fMRI data"
+type: software
+license: MIT
+authors:
+  - family-names: Chen
+    given-names: Hui-Fen
+    affiliation: "University of Münster"
+  - family-names: Pradier
+    given-names: Bruno
+    affiliation: "University of Münster"
+    email: bruno.pradier@uni-muenster.de
+preferred-citation:
+  type: article
+  title: "Sex-Specific Central Encoding of Pain Hypersensitivity and Recovery Revealed by fMRI in a Mouse Model of incisional Pain"
+  journal: "Imaging Neuroscience"
+  year: 2026
+  doi: "10.1162/IMAG.a.1393"
+  url: "https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.1393/139032/Sex-Specific-Central-Encoding-of-Pain"
+  authors:
+    - family-names: Chen
+      given-names: Hui-Fen
+    - family-names: Segelcke
+      given-names: Daniel
+    - family-names: Bhatti
+      given-names: Hammad A.
+    - family-names: Chao
+      given-names: Hsin-Yi
+    - family-names: Nagelmann
+      given-names: Nina
+    - family-names: Sandbrink
+      given-names: Martin
+    - family-names: Kreitz
+      given-names: Silke
+    - family-names: Hess
+      given-names: Andreas
+    - family-names: Faber
+      given-names: Cornelius
+    - family-names: Pogatzki-Zahn
+      given-names: Esther
+    - family-names: Pradier
+      given-names: Bruno
